@@ -4,12 +4,10 @@
 
 ## Tech We Used
 
-- ReactJs
+- Spring Boot
 - Firebase Hosting
-- Firebase Auth
 - Firebase Storage
-- React-Dom
-- React Redux
+- Basic HTML5 and CSS
 
 ## Features
 
