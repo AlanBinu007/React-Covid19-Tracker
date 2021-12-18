@@ -1,11 +1,32 @@
-# COVID-19 Tracker
+# Covid-19 Traker
 
-### [Live Site](https://alanbinu-covid19-tracker.web.app/)
+**Project Link** - ***https://alanbinu-covid19-tracker.web.app/***
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+## Tech We Used
+
+- ReactJs
+- Firebase Hosting
+- Firebase Auth
+- Firebase Storage
+- React-Dom
+- React Redux
+
+## Features
+
+- Search By country
+- Sort opttions
+- Easy visualization
+- Neat and clean UI
+
+## Steps to run in your machine
+
+#### Run the following commands
+```
+npm i
+npm run start
+```
 
 
-API used: https://covid19.mathdro.id/api
 
-Setup:
-- run ```npm i && npm start```
+
+#### Hope you liked this project, dont forget to ⭐ the repo.
