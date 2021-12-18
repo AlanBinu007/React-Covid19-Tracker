@@ -4,7 +4,8 @@
 
 ## Tech We Used
 
-- Spring Boot
+- ReactJs
+- React Routing
 - Firebase Hosting
 - Firebase Storage
 - Basic HTML5 and CSS
