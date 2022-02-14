@@ -12,7 +12,7 @@
 
 ## Features
 
-- Search By country
+- Search by country
 - Sort options
 - Easy visualization
 - Neat and clean UI
